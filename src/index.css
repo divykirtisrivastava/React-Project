@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  
+  .flip-button-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.4s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+  }
+
+  
+  .flip-button:hover .flip-button-inner{
+    transform: rotateX(180deg);
+  }
+  
+  .flip-button-front,
+  .flip-button-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .flip-button-front {
+    background: #4BA4A1;
+    color: white;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flip-button-back {
+    background: #215F5D;
+    color: white;
+    transform: rotateX(180deg);
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+   */
